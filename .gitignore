@@ -1,4 +1,5 @@
 ### IntelliJ IDEA ###
 out/
-idea/
-.imlgit status
+.idea/
+.iml
+JavaHW2.2.iml
