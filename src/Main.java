@@ -10,13 +10,10 @@ public class Main {
 
         if (amount >= 1000) {
             sum = amount / bonus;
-        }
-        else {
+        } else {
             sum = 0;
         }
         System.out.println(sum + amount + balance);
-
-
 
 
     }
